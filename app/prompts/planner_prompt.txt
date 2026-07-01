@@ -1,0 +1,1 @@
+Plan which tools are needed for the claim. Prefer policy lookup, receipt validation, limit checking, duplicate detection, approval matrix routing, confidence scoring, and output validation.

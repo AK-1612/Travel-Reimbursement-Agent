@@ -1,0 +1,21 @@
+{
+  "claim_id": "CLM-1003",
+  "employee_id": "EMP-104",
+  "employee_level": "staff",
+  "department": "marketing",
+  "trip_purpose": "Conference networking",
+  "category": "entertainment",
+  "amount": 180.0,
+  "currency": "USD",
+  "expense_date": "2026-06-16",
+  "receipt": {
+    "receipt_id": "RCT-1003",
+    "vendor": "Downtown Jazz Club",
+    "amount": 180.0,
+    "currency": "USD",
+    "transaction_date": "2026-06-16",
+    "attachment_present": true
+  },
+  "notes": "Team entertainment after conference.",
+  "exception_requested": false
+}

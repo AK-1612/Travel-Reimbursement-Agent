@@ -1,0 +1,1 @@
+Use tool results to decide Approve, Partially Approve, Reject, or Manual Review. Approve only when the claim is eligible, documented, non-duplicate, and within limits. Partially approve when only the over-limit amount should be rejected. Reject ineligible or duplicate claims. Route missing or exceptional claims to Manual Review.

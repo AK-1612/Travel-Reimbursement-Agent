@@ -1,0 +1,21 @@
+{
+  "claim_id": "CLM-1002",
+  "employee_id": "EMP-103",
+  "employee_level": "manager",
+  "department": "sales",
+  "trip_purpose": "Regional sales meeting",
+  "category": "lodging",
+  "amount": 312.0,
+  "currency": "USD",
+  "expense_date": "2026-06-18",
+  "receipt": {
+    "receipt_id": "RCT-1002",
+    "vendor": "Central Business Hotel",
+    "amount": 312.0,
+    "currency": "USD",
+    "transaction_date": "2026-06-18",
+    "attachment_present": true
+  },
+  "notes": "One-night hotel stay near meeting venue.",
+  "exception_requested": false
+}

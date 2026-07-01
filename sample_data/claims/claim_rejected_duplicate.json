@@ -1,0 +1,21 @@
+{
+  "claim_id": "CLM-1005",
+  "employee_id": "EMP-102",
+  "employee_level": "staff",
+  "department": "finance",
+  "trip_purpose": "Airport transfer",
+  "category": "taxi",
+  "amount": 68.5,
+  "currency": "USD",
+  "expense_date": "2026-06-14",
+  "receipt": {
+    "receipt_id": "RCT-DUP-001",
+    "vendor": "City Taxi",
+    "amount": 68.5,
+    "currency": "USD",
+    "transaction_date": "2026-06-14",
+    "attachment_present": true
+  },
+  "notes": "Taxi from airport to hotel.",
+  "exception_requested": false
+}

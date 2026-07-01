@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "max_amount": 250,
+      "approval_required": false,
+      "approver": "auto_approval",
+      "basis": "Low-value claims can be auto-approved when policy checks pass."
+    },
+    {
+      "max_amount": 1000,
+      "approval_required": true,
+      "approver": "line_manager",
+      "basis": "Claims up to 1000 USD require line manager approval."
+    },
+    {
+      "max_amount": 2500,
+      "approval_required": true,
+      "approver": "finance_manager",
+      "basis": "Claims up to 2500 USD require finance manager approval."
+    }
+  ],
+  "fallback": {
+    "approval_required": true,
+    "approver": "finance_director",
+    "basis": "Claims above 2500 USD require finance director approval."
+  }
+}

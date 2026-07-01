@@ -1,0 +1,41 @@
+{
+  "currency": "USD",
+  "categories": {
+    "airfare": {
+      "limit": 1200,
+      "eligible": true,
+      "receipt_required": true,
+      "basis": "Airfare is reimbursable up to 1200 USD for approved business travel."
+    },
+    "lodging": {
+      "limit": 250,
+      "eligible": true,
+      "receipt_required": true,
+      "basis": "Lodging is reimbursable up to 250 USD per night."
+    },
+    "meals": {
+      "limit": 75,
+      "eligible": true,
+      "receipt_required": true,
+      "basis": "Meals are reimbursable up to 75 USD per day."
+    },
+    "taxi": {
+      "limit": 120,
+      "eligible": true,
+      "receipt_required": true,
+      "basis": "Ground transport is reimbursable up to 120 USD per trip."
+    },
+    "conference": {
+      "limit": 800,
+      "eligible": true,
+      "receipt_required": true,
+      "basis": "Conference fees are reimbursable up to 800 USD with a business purpose."
+    },
+    "entertainment": {
+      "limit": 0,
+      "eligible": false,
+      "receipt_required": true,
+      "basis": "Entertainment expenses are excluded from reimbursement."
+    }
+  }
+}

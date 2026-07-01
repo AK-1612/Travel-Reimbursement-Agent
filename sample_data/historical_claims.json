@@ -1,0 +1,12 @@
+[
+  {
+    "claim_id": "HIST-1001",
+    "employee_id": "EMP-102",
+    "receipt_id": "RCT-DUP-001",
+    "vendor": "City Taxi",
+    "expense_date": "2026-06-14",
+    "amount": 68.5,
+    "category": "taxi",
+    "decision": "Approve"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "claim_id": "CLM-1004",
+  "employee_id": "EMP-105",
+  "employee_level": "staff",
+  "department": "consulting",
+  "trip_purpose": "Airport transfer for client visit",
+  "category": "taxi",
+  "amount": 54.25,
+  "currency": "USD",
+  "expense_date": "2026-06-21",
+  "receipt": {
+    "receipt_id": null,
+    "vendor": "Metro Cab",
+    "amount": 54.25,
+    "currency": "USD",
+    "transaction_date": "2026-06-21",
+    "attachment_present": false
+  },
+  "notes": "Receipt was lost.",
+  "exception_requested": false
+}

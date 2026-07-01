@@ -1,0 +1,1 @@
+Prepare a reviewer summary for incomplete, uncertain, or exception-based claims. Include missing evidence, policy references, tool findings, confidence score, and suggested next action.

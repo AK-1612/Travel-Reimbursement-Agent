@@ -1,0 +1,21 @@
+{
+  "claim_id": "CLM-1001",
+  "employee_id": "EMP-101",
+  "employee_level": "staff",
+  "department": "engineering",
+  "trip_purpose": "Client workshop in Chicago",
+  "category": "meals",
+  "amount": 62.4,
+  "currency": "USD",
+  "expense_date": "2026-06-20",
+  "receipt": {
+    "receipt_id": "RCT-1001",
+    "vendor": "North Loop Cafe",
+    "amount": 62.4,
+    "currency": "USD",
+    "transaction_date": "2026-06-20",
+    "attachment_present": true
+  },
+  "notes": "Dinner during approved client workshop.",
+  "exception_requested": false
+}
